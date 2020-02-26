@@ -1,6 +1,6 @@
 Курс  Интеллектуальный анализ данных в бизнесе на платформе SAS
 
-Учебник для лабораторных работ 
+Учебник для лабораторных работ
 https://documentation.sas.com/?activeCdc=webeditorcdc&cdcId=sasstudiocdc&cdcVersion=5.2&docsetId=webeditorref&docsetTarget=n1681utr5h41gan15b3mfckfwef4.htm&locale=ru&docsetVersion=5.2
 
 
@@ -11,27 +11,29 @@ https://documentation.sas.com/?activeCdc=webeditorcdc&cdcId=sasstudiocdc&cdcVers
 
 https://support.sas.com/edu/schedules.html?id=5235&ctry=RU
 
+Видео для обучения:
+
+1) https://video.sas.com/category/videos/how-to-tutorials
 
 
 Доклады
 
-SPSS Statistics 
+SPSS Statistics
 
-Statistica 
+Statistica
 
-RapidMiner 
+RapidMiner
 
-Maple 
+Maple
 
-R + R-Studio 
+R + R-Studio
 
-EpiInfo 
+EpiInfo
 
-OpenEpi 
+OpenEpi
 
-PSPP 
+PSPP
 
-SOFA 
+SOFA
 
-Deducer jamovi 
-
+Deducer jamovi
