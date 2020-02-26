@@ -14,13 +14,24 @@ https://support.sas.com/edu/schedules.html?id=5235&ctry=RU
 
 
 Доклады
+
 SPSS Statistics 
+
 Statistica 
+
 RapidMiner 
+
 Maple 
+
 R + R-Studio 
+
 EpiInfo 
+
 OpenEpi 
+
 PSPP 
+
 SOFA 
+
 Deducer jamovi 
+
