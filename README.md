@@ -12,7 +12,7 @@ https://documentation.sas.com/?activeCdc=webeditorcdc&cdcId=sasstudiocdc&cdcVers
 https://support.sas.com/edu/schedules.html?id=5235&ctry=RU
 
 
-Доклады
+
 Доклады
 SPSS Statistics 
 Statistica 
