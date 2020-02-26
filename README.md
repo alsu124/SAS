@@ -10,3 +10,17 @@ https://documentation.sas.com/?activeCdc=webeditorcdc&cdcId=sasstudiocdc&cdcVers
  https://support.sas.com/edu/schedules.html?id=9341&ctry=RU#s1=3
 
 https://support.sas.com/edu/schedules.html?id=5235&ctry=RU
+
+
+Доклады
+Доклады
+SPSS Statistics 
+Statistica 
+RapidMiner 
+Maple 
+R + R-Studio 
+EpiInfo 
+OpenEpi 
+PSPP 
+SOFA 
+Deducer jamovi 
