@@ -21,6 +21,8 @@ https://support.sas.com/edu/schedules.html?id=5235&ctry=RU
 6) https://video.sas.com/detail/video/4573023403001/creating-a-bar-chart-using-sas-studio?autoStart=true&page=4&q=SAS%20Studio
 7) https://video.sas.com/detail/video/4573023399001/creating-a-new-column-in-sas?autoStart=true&page=4&q=SAS%20Studio
 8) ПРОГНОЗИРОВАНИЕ ВРЕМЕННЫХ РЯДОВ
+
+
 а) https://video.sas.com/detail/video/4414522302001/time-series-modeling-and-forecasting-using-sas-studio?autoStart=true&page=5&q=SAS%20Studio
 
 b) https://video.sas.com/detail/video/4414522301001/time-series-exploration-using-sas-studio?autoStart=true&page=5&q=SAS%20Studio
