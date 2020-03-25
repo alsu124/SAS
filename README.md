@@ -4,7 +4,7 @@ Python Jupyter Notebook онлайн  https://hub.gke.mybinder.org/user/ipython-
 Ссылка на курс: https://www.coursera.org/learn/mathematics-and-python/
 Проходим 1,2 и 4 неделю курса
 
-
+https://github.com/dm-fedorov/python_basic/blob/master/README.md
 
 Курс  Интеллектуальный анализ данных в бизнесе на платформе SAS:
 
