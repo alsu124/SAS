@@ -1,4 +1,12 @@
-Курс  Интеллектуальный анализ данных в бизнесе на платформе SAS
+Курс Python:
+Python Jupyter Notebook онлайн  https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-6z3p8fjw/notebooks/binder/Index.ipynb
+
+Ссылка на курс: https://www.coursera.org/learn/mathematics-and-python/
+Проходим 1,2 и 4 неделю курса
+
+
+
+Курс  Интеллектуальный анализ данных в бизнесе на платформе SAS:
 
 Учебник для лабораторных работ
 https://documentation.sas.com/?activeCdc=webeditorcdc&cdcId=sasstudiocdc&cdcVersion=5.2&docsetId=webeditorref&docsetTarget=n1681utr5h41gan15b3mfckfwef4.htm&locale=ru&docsetVersion=5.2
