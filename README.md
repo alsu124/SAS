@@ -3,7 +3,11 @@ Python Jupyter Notebook онлайн  https://hub.gke.mybinder.org/user/ipython-
 
 Ссылка на курс: https://www.coursera.org/learn/mathematics-and-python/
 Проходим 1,2 и 4 неделю курса
+Отмечаемся здесь:
+https://docs.google.com/spreadsheets/d/1qgK2Qe3nKfJnV-BSNhqFKoV-ytV3wWmD/edit#gid=949229999
 
+
+Курс в помощь
 https://github.com/dm-fedorov/python_basic/blob/master/README.md
 
 Курс  Интеллектуальный анализ данных в бизнесе на платформе SAS:
@@ -14,6 +18,8 @@ https://documentation.sas.com/?activeCdc=webeditorcdc&cdcId=sasstudiocdc&cdcVers
 
 
 Бесплатные курсы:
+
+New: https://www.sas.com/ru_ru/training/offerings/learn-sas-online.html#liveweb
 
  https://support.sas.com/edu/schedules.html?id=9341&ctry=RU#s1=3
 
