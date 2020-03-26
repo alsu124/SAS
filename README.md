@@ -4,7 +4,7 @@
 1) Работаем в программе Python Jupyter Notebook онлайн https://jupyter.org/try  или устанавливаем локальную версию(инструкция есть в курсе)
 
 Ссылка на курс: https://www.coursera.org/learn/mathematics-and-python/
-Проходим 1 пока первую неделю курса, задания или показываем в Team, переключая экран, либо скриншоты в Telegram.
+Проходим  пока первую неделю курса, задания  показываем в Team, переключая экран, либо скриншоты в Telegram.
 
 Отмечаемся здесь(Присутствие онлайн ставим *, выполнение задания на пару ставим +):
 https://docs.google.com/spreadsheets/d/1qgK2Qe3nKfJnV-BSNhqFKoV-ytV3wWmD/edit#gid=949229999
