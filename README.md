@@ -1,6 +1,5 @@
 Курс Python:
-Python Jupyter Notebook онлайн  https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-6z3p8fjw/notebooks/binder/Index.ipynb
-
+Python Jupyter Notebook онлайн https://jupyter.org/try
 Ссылка на курс: https://www.coursera.org/learn/mathematics-and-python/
 Проходим 1,2 и 4 неделю курса
 Отмечаемся здесь:
