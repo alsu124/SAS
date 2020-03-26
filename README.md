@@ -1,13 +1,18 @@
 Курс Python:
-Python Jupyter Notebook онлайн https://jupyter.org/try
+
+Задание:
+1) Работаем в программе Python Jupyter Notebook онлайн https://jupyter.org/try  или устанавливаем локальную версию(инструкция есть в курсе)
+
 Ссылка на курс: https://www.coursera.org/learn/mathematics-and-python/
-Проходим 1,2 и 4 неделю курса
-Отмечаемся здесь:
+Проходим 1 пока первую неделю курса, задания или показываем в Team, переключая экран, либо скриншоты в Telegram.
+
+Отмечаемся здесь(Присутствие онлайн ставим *, выполнение задания на пару ставим +):
 https://docs.google.com/spreadsheets/d/1qgK2Qe3nKfJnV-BSNhqFKoV-ytV3wWmD/edit#gid=949229999
 
 
 Курс в помощь
 https://github.com/dm-fedorov/python_basic/blob/master/README.md
+
 
 Курс  Интеллектуальный анализ данных в бизнесе на платформе SAS:
 
@@ -15,6 +20,7 @@ https://github.com/dm-fedorov/python_basic/blob/master/README.md
 https://documentation.sas.com/?activeCdc=webeditorcdc&cdcId=sasstudiocdc&cdcVersion=5.2&docsetId=webeditorref&docsetTarget=n1681utr5h41gan15b3mfckfwef4.htm&locale=ru&docsetVersion=5.2
 
 
+Добровольно проходим:
 
 Бесплатные курсы:
 
